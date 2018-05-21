@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "347773085548",
+    "firebase_url": "https://emonitorage.firebaseio.com",
+    "project_id": "emonitorage",
+    "storage_bucket": "emonitorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347773085548:android:8a0aacfd97255e48",
+        "android_client_info": {
+          "package_name": "com.companyname.Emonitorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347773085548-9q12qiuavse1c6be10gip9er7r2okqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvE0CxRy68LSj5QjLrmJMHvXpdmeCNNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347773085548:android:c08e53b9fc7b70f4",
+        "android_client_info": {
+          "package_name": "com.emonitorage.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347773085548-9q12qiuavse1c6be10gip9er7r2okqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvE0CxRy68LSj5QjLrmJMHvXpdmeCNNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

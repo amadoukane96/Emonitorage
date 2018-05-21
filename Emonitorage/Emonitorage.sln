@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Emonitorage", "Emonitorage\Emonitorage.shproj", "{B2BB2087-1959-4F3F-A88C-BEB79623A301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAndroid", "EAndroid\EAndroid.csproj", "{0804146C-299E-47E8-AE89-8EDB20BEB7D5}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Emonitorage\Emonitorage.projitems*{0804146c-299e-47e8-ae89-8edb20beb7d5}*SharedItemsImports = 4
+		Emonitorage\Emonitorage.projitems*{b2bb2087-1959-4f3f-a88c-beb79623a301}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0804146C-299E-47E8-AE89-8EDB20BEB7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0804146C-299E-47E8-AE89-8EDB20BEB7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0804146C-299E-47E8-AE89-8EDB20BEB7D5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0804146C-299E-47E8-AE89-8EDB20BEB7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0804146C-299E-47E8-AE89-8EDB20BEB7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0804146C-299E-47E8-AE89-8EDB20BEB7D5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6D19A7-D9DF-4E8B-B9E2-A6DED0A05BE3}
+	EndGlobalSection
+EndGlobal
